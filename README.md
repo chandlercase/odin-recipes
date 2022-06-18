@@ -1,2 +1,2 @@
 # odin-recipes
-In this project, I will be creating a simple recipe project!
+In this project, I will be creating a simple recipe project! UPDATE: After further completing this project with HTML basics, I have advanced my knowledge on the HTML boilerplate and other simple concepts included in HTML. I am still learning my way around Github. 
